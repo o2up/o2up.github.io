@@ -1,17 +1,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>https://%C3%B82up.com/posts/1/</loc>
-        <lastmod>2020-01-29T13:14:00-05:00</lastmod>
+        <loc>https://%C3%B82up.com/posts/boligl%C3%A5n/</loc>
+        <lastmod>2020-01-29T15:28:01-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://%C3%B82up.com/posts/boligl%C3%A5ns/</loc>
+        <lastmod>2020-01-29T15:28:01-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
     </url>
     
     <url>
         <loc>https://%C3%B82up.com/posts/</loc>
-        <lastmod>2020-01-29T13:14:00-05:00</lastmod>
+        <lastmod>2020-01-29T15:28:01-05:00</lastmod>
     </url>
     
     <url>
         <loc>https://%C3%B82up.com/</loc>
+        <lastmod>2020-01-29T15:28:01-05:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://%C3%B82up.com/posts/kontakt/</loc>
+        <lastmod>2020-01-29T14:47:01-05:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://%C3%B82up.com/posts/min-strategi/</loc>
+        <lastmod>2020-01-29T14:46:48-05:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://%C3%B82up.com/posts/sbb-samhallsbyggnadsbolaget-i-norden/</loc>
+        <lastmod>2020-01-29T14:42:52-05:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://%C3%B82up.com/posts/1/</loc>
         <lastmod>2020-01-29T13:14:00-05:00</lastmod>
     </url>
     
