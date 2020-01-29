@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ø2UP ⚡</title>
+    <link>https://%C3%B82up.com/posts/</link>
+    <description>Recent content in Posts on Ø2UP ⚡</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 29 Jan 2020 13:14:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://%C3%B82up.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1</title>
+      <link>https://%C3%B82up.com/posts/1/</link>
+      <pubDate>Wed, 29 Jan 2020 13:14:00 -0500</pubDate>
+      
+      <guid>https://%C3%B82up.com/posts/1/</guid>
+      <description>Hello You!</description>
+    </item>
+    
+  </channel>
+</rss>

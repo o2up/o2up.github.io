@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Ø2UP ⚡</title>
+    <link>https://%C3%B82up.com/tags/</link>
+    <description>Recent content in Tags on Ø2UP ⚡</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>no</language>
+    
+	<atom:link href="https://%C3%B82up.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
